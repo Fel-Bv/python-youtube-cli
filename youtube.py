@@ -112,7 +112,7 @@ def main():
     else:
         mensajes.log(
             f'{colores["fondo negro"] + colores.blanco}Escrito por: {colores.azul}Felipe Alcantar{colores.blanco}. '
-            f'https://github.com/Fel-Bv/.{colores.default}\n'
+            f'https://github.com/Fel-Bv/python-youtube-cli.{colores.default}\n'
         )
 
         from consola.mostrar_tutorial import mostrar_opciones
